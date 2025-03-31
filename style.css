@@ -34,4 +34,6 @@ html {
   margin-top:20px!important;
 }
 
-/* NEW CSS HERE */
+table, th, td {
+  border: 1px solid black;
+}
