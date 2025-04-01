@@ -37,3 +37,26 @@ html {
 table, th, td {
   border: 1px solid black;
 }
+p{
+  color:#0871B9;
+}
+h2{
+  color:#0D93B4;
+}
+h5{
+  color:#D8C162;
+}
+table{
+  text-align: center;
+}
+td img{
+  height:200px; 
+  width:200px;
+}
+td:nth-child(4) {
+  text-align:left;
+}
+#winners{
+  float:right;
+  margin-left:20px;
+}
