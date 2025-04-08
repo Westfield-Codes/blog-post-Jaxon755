@@ -39,21 +39,22 @@ table, th, td {
   padding:10px;
 }
 p,h4{
-  color:#0871B9;
+  color:darkblue;
+  
 }
-h2,h1{
+h3,h2,h1{
   color:#0D93B4;
 }
 h5{
   color:darkblue;
 }
 table{
-  text-align: right;
+  text-align: center;
   background-color:white ;
 }
 td img{
-  height:200px; 
-  width:200px;
+  height:130px; 
+  width:130px;
 }
 td:nth-child(4) {
   text-align:left;
